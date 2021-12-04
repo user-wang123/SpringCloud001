@@ -1,0 +1,5 @@
+com\os\springcloud\cfgbeans\ConfigBeanMMD.class
+com\os\myrule\RandomRule_WDY.class
+com\os\myrule\MySelfRule.class
+com\os\springcloud\controller\DeptController_Consumer.class
+com\os\springcloud\DeptConsumer8080_App.class
